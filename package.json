@@ -40,7 +40,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "lodash.range": "^3.2.0",
-    "moment-jalaali": "0.9.1",
+    "moment-jalaali": "git+https://github.com/AmirTahani/moment-jalaali.git",
     "moment-range": "^4.0.2",
     "prop-types": "^15.7.2",
     "rc-trigger": "3.0.0",
